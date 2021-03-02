@@ -16,7 +16,7 @@ The site is built with Sass & Vanilla JS.
 While building projects for my portfolio, I thought that everyone else would have the same ecommerce site with same app mechanism. I decided to create a sneaker company site instead that has/will have all the functionality of an ecommerce site and more.
 
 ## Owner
-``Designed & Developed`` by – Subal Adhikari – subaladhikari01@gmail.com
+``Designed & Developed`` by – Subal Adhikari – subaladhikari01@gmail.com<br>
 Visit my ``portfolio`` for more information.
 [https://subaladhikari.github.io/subaladhikari/]
 
