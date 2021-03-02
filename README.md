@@ -17,9 +17,11 @@ While building projects for my portfolio, I thought that everyone else would hav
 
 ## Owner
 ``Designed & Developed`` by – Subal Adhikari – subaladhikari01@gmail.com
-
 Visit my ``portfolio`` for more information.
 [https://subaladhikari.github.io/subaladhikari/]
+
+## Credit
+I built this site after going through Brad Traversy, Kevin Powell, and DesignCourse YouTube tutorial of Sass.
 
 ## Contributing
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
