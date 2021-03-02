@@ -13,7 +13,7 @@ The site is built with Sass & Vanilla JS.
     * Cart and checkout functionality - Work in progress.
 
 ## Development
-While building projects for my portfolio, I thought that everyone else would have the same ecommerce site with same app mechanism. I decided to create a sneaker company site instead that has/will have all the functionality of an ecommerce site and more.
+While building projects for my portfolio, I thought that everyone else would have the same ecommerce site with same app mechanism. I decided to create a sneaker company site instead that has/will have all the functionality of an ecommerce site and more. As a freelancer, I built a template website for a client through Reddit, which I then used to create this sneaker wrap website.
 
 ## Owner
 ``Designed & Developed`` by – Subal Adhikari – subaladhikari01@gmail.com<br>
