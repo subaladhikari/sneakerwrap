@@ -4,7 +4,7 @@ A static website for a virtual custom sneaker design company.
 # _[SEE LIVE](https://subaladhikari.github.io/sneakerwrap/)_
 
 ## Tools
-The site is built with Sass & Vanilla JS.
+The site is built with Sass & Vanilla JS. 
 
 ## Release History
 * v1
@@ -13,7 +13,7 @@ The site is built with Sass & Vanilla JS.
     * Cart and checkout functionality - Work in progress.
 
 ## Development
-While building projects for my portfolio, I thought that everyone else would have the same ecommerce site with same app mechanism. I decided to create a sneaker company site instead that has/will have all the functionality of an ecommerce site and more. As a freelancer, I built a template website for a client through Reddit, which I then used to create this sneaker wrap website.
+While building projects for my portfolio, I thought that everyone else would have the same ecommerce site with same app mechanism. I decided to create a sneaker company site instead that has/will have all the functionality of an ecommerce site and more. As a freelancer, I built a template website for a client through Reddit, which I then used to create this sneaker wrap website. Archieved Collection. Made in my senior year of college.
 
 ## Owner
 ``Designed & Developed`` by – Subal Adhikari – subaladhikari01@gmail.com<br>
